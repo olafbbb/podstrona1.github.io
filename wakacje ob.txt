@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kolonia w Grecji - wakacje_ob!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            margin: 0;
+        }
+        
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        
+        p {
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kolonia w Grecji - wakajce_ob!</h1>
+    </header>
+    <main>
+        <h2>Witaj w naszej kolonii w Grecji!</h2>
+        <img src="grecja.jpg" alt="Plaża w Grecji">
+        <p>
+            Zapraszamy Cię do niezapomnianej przygody w Grecji! Nasza kolonia oferuje mnóstwo atrakcji i wspaniałych miejsc do zwiedzania. Oto kilka powodów, dla których warto do nas dołączyć:
+        </p>
+        <ul>
+            <li>Niesamowite plaże o błękitnych wodach Morza Egejskiego.</li>
+            <li>Bogata historia i kultura Grecji - zwiedzanie starożytnych zabytków.</li>
+            <li>Tradycyjna grecka kuchnia - smakuj lokalne specjały.</li>
+            <li>Sporty wodne i inne aktywności na świeżym powietrzu.</li>
+            <li>Przyjaźni i doświadczeni opiekunowie zapewniający bezpieczeństwo i dobrą zabawę.</li>
+        </ul>
+        <p>
+            Nie zwlekaj! Dołącz do naszej kolonii i odkryj uroki Grecji razem z nami. Skontaktuj się z nami już dzisiaj, aby dowiedzieć się więcej i zarezerwować miejsce!
+        </p>
+        <p>
+            Telefon: 123-456-789<br>
+            E-mail: oboryszewski@gmail.com
+        </p>
+    </main>
+</body>
+</html>
